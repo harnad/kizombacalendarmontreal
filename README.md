@@ -1,4 +1,4 @@
-# tangocalmontreal
-A simple calendar of weekly tango events in Montreal.
+# kizcalendarmontreal
+A simple calendar of weekly kiz events in Montreal.
 
-[tangocalmontreal.ca](http://tangocalmontreal.ca)
+[kizcalmontreal.ca](http://kizcalmontreal.ca)
