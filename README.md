@@ -1,4 +1,4 @@
-# kizcalendarmontreal
-A simple calendar of weekly kiz events in Montreal.
+# kizombacalendarmontreal
+A simple calendar of weekly kizomba events in Montreal.
 
-[kizcalmontreal.ca](http://kizcalmontreal.ca)
+[kizombacalendarmontreal.ca](http://kizombacalendarmontreal.ca)
